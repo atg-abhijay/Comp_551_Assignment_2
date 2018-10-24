@@ -1,0 +1,4 @@
+Test Accuracy: 0.55875
+Test Precision: 0.5560859188544153
+Test Recall: 0.5825
+Test F1 Measure: 0.5689865689865691

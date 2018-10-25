@@ -1,0 +1,13 @@
+artifact_uri: /Users/AbhijayGupta/Desktop/Fall_2018_Comp_551_Applied_ML/Assignments/Assignment_2/mlruns/0/22b95f89ccd840bc87fbbac056760ad9/artifacts
+end_time: null
+entry_point_name: null
+experiment_id: 0
+name: ''
+run_uuid: 22b95f89ccd840bc87fbbac056760ad9
+source_name: /Users/AbhijayGupta/anaconda3/envs/myenv/lib/python3.5/site-packages/ipykernel_launcher.py
+source_type: 4
+source_version: null
+start_time: 1540346483088
+status: 1
+tags: []
+user_id: AbhijayGupta
